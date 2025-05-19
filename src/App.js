@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>Hi i am react app</p>
+        <p>Hi this is the second commit</p>
       </header>
     </div>
   );
